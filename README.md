@@ -1,3 +1,9 @@
+**Petmaniac**
+
+This is a Website for information about various breeds of cats and dogs. In case you want to become a dog- or catowner or want just information about various breeds with just one look. 
+You will learn about the specifics, the traits and things you need to look out for, for every of the listed breeds. It allows Users to check on all neccesary Information for either preparing to get a pet and want to know what they need to look out for.
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome,
