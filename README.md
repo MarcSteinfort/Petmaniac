@@ -1,4 +1,4 @@
-## Petmaniac
+### Petmaniac
 
 This is a Website for information about various breeds of cats and dogs. In case you want to become a dog- or catowner or want just information about various breeds with just one look. 
 You will learn about the specifics, the traits and things you need to look out for, for every of the listed breeds. It allows Users to check on all neccesary Information for either preparing to get a pet and want to know what they need to look out for. Users can join  survey, which of the breeds they intend to get or already got. The Website includes an gallery for all the breeds. Click <a href="placeholder">here</a> for the live Website.
@@ -15,3 +15,23 @@ You will learn about the specifics, the traits and things you need to look out f
 <li>Imaginary survey for the users where they can choose the cat- and dogbreeds they got or want to get in future.</li>
 <li>404 Page for broken links</li>
 </ol>
+
+## Wireframes
+
+<img src="assets/images/Home Project one Smartphone.webp" alt="Wireframe for Smartphone mainpage"/>
+<img src="assets/images/Home Project one Desktop.webp" alt="Wireframe for mainpage"/>
+
+Mainpage
+
+<img src="assets/images/Dogs Smartphone.webp" alt="Wireframe for dog and cat page Smartphone"/>
+<img src="assets/images/Dogs.webp" alt="Wireframe for dog and cat page"/>
+
+Dog- and Catpage
+
+<img src="assets/images/Gallery Smartphone.webp" alt="Wireframe for gallerypage Smartphone"/>
+<img src="assets/images/Gallery.webp" alt="Wireframe for gallerypage/>
+
+Gallerypage
+
+<img src="assets/images/Survey Smartphone.webp" alt="Wireframe for surveypage Smartphone"/>
+<img src="assets/images/Survey.webp" alt="Wireframe for surveypage"/>
