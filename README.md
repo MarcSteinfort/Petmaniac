@@ -35,3 +35,19 @@ Gallerypage
 
 <img src="assets/images/Survey Smartphone.webp" alt="Wireframe for surveypage Smartphone" height="35%" width="35%"/>
 <img src="assets/images/Survey.webp" alt="Wireframe for surveypage" height="50%" width="50%"/>
+
+
+## sources
+<ul>
+<li>https://www.zooroyal.de/magazin/katzen/die-50-beliebtesten-katzenrassen/ </li>
+<li>All pictures are owned by myself Marc Steinfort or are creative commons licenses and free to use. </li>
+</ul>
+
+## Technologies used
+<ul>
+<li>Googlefonts: https://fonts.google.com/ </li>
+<li>Font awesome: https://fontawesome.com/ </li>
+<li>Tinypng to compress my Webp images: https://tinypng.com </li>
+<li>Cloudconvert to convert my .png and .jpeg files: https://cloudconvert.com/jpeg-to-webp </li>
+<li>Favicon converter for the Favicon Icon: https://favicon.io/favicon-converter/ </li>
+</ul>
