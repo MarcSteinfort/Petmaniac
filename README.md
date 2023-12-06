@@ -37,17 +37,17 @@ Gallerypage
 <img src="assets/images/Survey.webp" alt="Wireframe for surveypage" height="50%" width="50%"/>
 
 
-## sources
+## Sources
 <ul>
-<li>https://www.zooroyal.de/magazin/katzen/die-50-beliebtesten-katzenrassen/ </li>
+<li> Information about various Catbreeds <a href="https://www.zooroyal.de/magazin/katzen/die-50-beliebtesten-katzenrassen/"> Click here</a> </li>
 <li>All pictures are owned by myself Marc Steinfort or are creative commons licenses and free to use. </li>
 </ul>
 
 ## Technologies used
 <ul>
-<li>Googlefonts: https://fonts.google.com/ </li>
-<li>Font awesome: https://fontawesome.com/ </li>
-<li>Tinypng to compress my Webp images: https://tinypng.com </li>
-<li>Cloudconvert to convert my .png and .jpeg files: https://cloudconvert.com/jpeg-to-webp </li>
-<li>Favicon converter for the Favicon Icon: https://favicon.io/favicon-converter/ </li>
+<li>Googlefonts: <a href="https://fonts.google.com/"> Click here </a> </li>
+<li>Font awesome: <a href="https://fontawesome.com/"> Click here </a> </li>
+<li>Tinypng to compress my Webp images: <a href="https://tinypng.com"> Click here </a> </li>
+<li>Cloudconvert to convert my .png and .jpeg files: <a href="https://cloudconvert.com/jpeg-to-webp"> Click here </a> </li>
+<li>Favicon converter for the Favicon Icon: <a href="https://favicon.io/favicon-converter/"> Click here </a> </li>
 </ul>
