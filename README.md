@@ -45,7 +45,7 @@ Gallerypage
 
 ## Technologies used
 <ul>
-<li>Googlefonts: <a href="https://fonts.google.com/"> Click here </a> </li>
+<li>Googlefonts: <a href="https://fonts.google.com/" _blank> Click here </a> </li>
 <li>Font awesome: <a href="https://fontawesome.com/"> Click here </a> </li>
 <li>Tinypng to compress my Webp images: <a href="https://tinypng.com"> Click here </a> </li>
 <li>Cloudconvert to convert my .png and .jpeg files: <a href="https://cloudconvert.com/jpeg-to-webp"> Click here </a> </li>
