@@ -5,3 +5,13 @@ You will learn about the specifics, the traits and things you need to look out f
 <img src="assets/images/Hero_Image.webp" alt="placeholder"/>
 
 
+## List of Features
+<ol>
+<li>Permanent navigation menu in header. For Smartphones a dropdown menu</li>
+<li>Footer with all relevant social media platforms with there distinctive Icon as _blank link.  </li>
+<li>Site wide Favicon</li>
+<li>Gallery page, which contains various images of the different breeds. This page is fully responsive and reacts different on various devices.</li>
+<li>Dog and Cats pages, which contain all relevant information about the different breeds. These pages are fully responsive aswell.</li>
+<li>Imaginary survey for the users where they can choose the cat- and dogbreeds they got or want to get in future.</li>
+<li>404 Page for broken links</li>
+</ol>
