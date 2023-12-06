@@ -19,19 +19,19 @@ You will learn about the specifics, the traits and things you need to look out f
 ## Wireframes
 
 <img src="assets/images/Home Project one Smartphone.webp" alt="Wireframe for Smartphone mainpage" height="35%" width="35%"/>
-<img src="assets/images/Home Project one Desktop.webp" alt="Wireframe for mainpage" height="35%" width="35%"/>
+<img src="assets/images/Home Project one Desktop.webp" alt="Wireframe for mainpage" height="50%" width="50%"/>
 
 Mainpage
 
 <img src="assets/images/Dogs Smartphone.webp" alt="Wireframe for dog and cat page Smartphone" height="35%" width="35%"/>
-<img src="assets/images/Dogs.webp" alt="Wireframe for dog and cat page" height="35%" width="35%"/>
+<img src="assets/images/Dogs.webp" alt="Wireframe for dog and cat page" height="50%" width="50%"/>
 
 Dog- and Catpage
 
 <img src="assets/images/Gallery Smartphone.webp" alt="Wireframe for gallerypage Smartphone" height="35%" width="35%"/>
-<img src="assets/images/Gallery.webp" alt="Wireframe for gallerypage height="35%" width="35%"/>
+<img src="assets/images/Gallery.webp" alt="Wireframe for gallerypage" height="50%" width="50%"/>
 
 Gallerypage
 
 <img src="assets/images/Survey Smartphone.webp" alt="Wireframe for surveypage Smartphone" height="35%" width="35%"/>
-<img src="assets/images/Survey.webp" alt="Wireframe for surveypage" height="35%" width="35%"/>
+<img src="assets/images/Survey.webp" alt="Wireframe for surveypage" height="50%" width="50%"/>
