@@ -41,13 +41,14 @@ Gallerypage
 <ul>
 <li> Information about various Catbreeds <a href="https://www.zooroyal.de/magazin/katzen/die-50-beliebtesten-katzenrassen/" target="_blank" rel="noopener"> Click here</a> </li>
 <li>All pictures are owned by myself Marc Steinfort or are creative commons licenses and free to use. </li>
+<li><a href="https://www.freepik.com/icon/animal-shelter_3769065" target="_blank" rel="noopener">Favicon by Freepik</a></li>
 </ul>
 
 ## Technologies used
 <ul>
-<li>Googlefonts: <a href="https://fonts.google.com/" target="_blank" rel="noopener"> Click here </a> </li>
-<li>Font awesome: <a href="https://fontawesome.com/" target="_blank" rel="noopener"> Click here </a> </li>
-<li>Tinypng to compress my Webp images: <a href="https://tinypng.com" target="_blank" rel="noopener"> Click here </a> </li>
-<li>Cloudconvert to convert my .png and .jpeg files: <a href="https://cloudconvert.com/jpeg-to-webp" target="_blank" rel="noopener"> Click here </a> </li>
-<li>Favicon converter for the Favicon Icon: <a href="https://favicon.io/favicon-converter/" target="_blank" rel="noopener"> Click here </a> </li>
+<li>Googlefonts: <a href="https://fonts.google.com/" target="_blank" rel="noopener"> Google fonts </a> </li>
+<li>Font awesome: <a href="https://fontawesome.com/" target="_blank" rel="noopener"> Font awesome </a> </li>
+<li>Tinypng to compress my Webp images: <a href="https://tinypng.com" target="_blank" rel="noopener"> Tinypng </a> </li>
+<li>Cloudconvert to convert my .png and .jpeg files: <a href="https://cloudconvert.com/jpeg-to-webp" target="_blank" rel="noopener"> Cloudconvert </a> </li>
+<li>Favicon converter for the Favicon Icon: <a href="https://favicon.io/favicon-converter/" target="_blank" rel="noopener"> Favicon converter </a> </li>
 </ul>

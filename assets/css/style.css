@@ -11,16 +11,33 @@ body {
     display:flex;
     flex-direction: column;
 }
+
 header {
-    background-color: aquamarine;
+    background-color: #ffffff;
+    position:fixed;
+    display:flex;
+    width: 100%;
+    justify-content: space-between;
+
 }
+
+header a {
+    text-decoration: none;
+}
+
 h1 {
     font-family: 'Rubik', sans-serif;
     color: #030303;
     text-transform: uppercase;
 }
+
 #navbar {
     display:none;
+}
+
+#menu {
+    text-align: right;
+    font-family: 'Lato', sans-serif;
 }
 
 main {
