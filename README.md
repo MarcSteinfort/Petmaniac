@@ -17,10 +17,10 @@ You will learn about the specifics, the traits and things you need to look out f
 </ol>
 
 ## Wireframes
-
+{image size: 50%;
 <img src="assets/images/Home Project one Smartphone.webp" alt="Wireframe for Smartphone mainpage"/>
 <img src="assets/images/Home Project one Desktop.webp" alt="Wireframe for mainpage"/>
-
+}
 Mainpage
 
 <img src="assets/images/Dogs Smartphone.webp" alt="Wireframe for dog and cat page Smartphone"/>
