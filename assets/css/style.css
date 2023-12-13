@@ -24,6 +24,7 @@ header {
 
 header a {
     text-decoration: none;
+    color: inherit;
 }
 
 h1 {
@@ -97,4 +98,26 @@ list-style-type: none;
 #social-networks i {
 padding: 0 5%;
 color: #181818;
+}
+
+@media screen and (min-width:768px) {
+
+    header a {
+    padding-right: 5px;
+    }
+    
+    nav{
+        display:block;
+        position: relative;
+        width: fit-content;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    .navbar-label{
+        display:none;
+    }
+
 }
