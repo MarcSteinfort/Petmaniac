@@ -18,7 +18,8 @@ header {
     display:flex;
     width: 100%;
     justify-content: space-between;
-
+    align-items: baseline;
+    box-shadow: 0 2px 2px 0 #030303;
 }
 
 header a {
@@ -29,21 +30,45 @@ h1 {
     font-family: 'Rubik', sans-serif;
     color: #030303;
     text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+
+#menu {
+    text-align: right;
+    font-family: 'Lato', sans-serif;
+    list-style: none;
+    letter-spacing: 2px;
+}
+
+nav {
+    position:absolute;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    display: none;
+    top: 100%;
 }
 
 #navbar {
     display:none;
 }
 
-#menu {
-    text-align: right;
-    font-family: 'Lato', sans-serif;
+#navbar:checked~nav {
+    display: block;
+}
+#dropdown {
+    display: flex;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
 
 main {
     background-color: olive;
     flex: 1 0 auto;
-
+    margin-top: 40px;
 }
 
 footer {
