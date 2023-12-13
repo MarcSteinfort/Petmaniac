@@ -72,7 +72,7 @@ main {
 }
 
 #hero_image{
-    height: 700px;
+    height: 650px;
     width: 100%;
     background: url("../images/Hero_Image.webp") no-repeat center center/cover;
     position: relative;
@@ -81,10 +81,12 @@ main {
 #hero_text {
     font-family: 'Rubik', sans-serif;
     text-align: center;
-    padding-top: 35%;
-    background-color: rgba(168, 133, 57, 0.3);
-    position: absolute;
+    padding-top: 15%;
+    background-color: rgba(168, 133, 57, 0.5);
+    min-height: 250px;
+    width: 75%
 }
+
 /*Footer*/
 footer {
     background-color: #cccccc;
