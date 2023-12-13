@@ -72,5 +72,29 @@ main {
 }
 
 footer {
-    background-color: orange;
+    background-color: #cccccc;
+    width: 100%;
+    justify-content: space-between;
+    align-items: baseline;
+    box-shadow:  2px 0 0 2px  #030303;
+}
+
+footer>h3 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #181818;
+}
+
+#social-networks {
+text-align: center;
+padding: 20px 0;
+display: flex;
+justify-content: space-evenly;
+list-style-type: none;
+}
+
+#social-networks i {
+padding: 0 5%;
+color: #181818;
 }
