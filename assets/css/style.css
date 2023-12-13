@@ -11,7 +11,7 @@ body {
     display:flex;
     flex-direction: column;
 }
-
+/*Header*/
 header {
     background-color: #cccccc;
     position:fixed;
@@ -65,20 +65,27 @@ nav {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
-
+/*Index main*/
 main {
-    background-color: olive;
     flex: 1 0 auto;
     margin-top: 40px;
 }
 
-#hero_image {
-    height: 650px;
+#hero_image{
+    height: 700px;
     width: 100%;
-    background: url("../assets/images/Hero_Image.webp") no-repeat center center/cover;
+    background: url("../images/Hero_Image.webp") no-repeat center center/cover;
     position: relative;
 }
 
+#hero_text {
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    padding-top: 35%;
+    background-color: rgba(168, 133, 57, 0.3);
+    position: absolute;
+}
+/*Footer*/
 footer {
     background-color: #cccccc;
     width: 100%;
@@ -88,7 +95,7 @@ footer {
 }
 
 footer>h3 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Rubik', sans-serif;
     text-align: center;
     letter-spacing: 2px;
     color: #181818;
@@ -103,10 +110,10 @@ list-style-type: none;
 }
 
 #social-networks i {
-padding: 0 5%;
+padding: 0 ;
 color: #181818;
 }
-
+/*Tablet*/
 @media screen and (min-width:768px) {
 
     header a {
@@ -128,6 +135,7 @@ color: #181818;
     }
 
 }
+/*Desktop*/
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
