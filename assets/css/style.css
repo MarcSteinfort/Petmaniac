@@ -20,6 +20,7 @@ header {
     justify-content: space-between;
     align-items: baseline;
     box-shadow: 0 2px 2px 0 #030303;
+    z-index: 99%;
 }
 
 header a {
