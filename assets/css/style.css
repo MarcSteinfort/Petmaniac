@@ -87,6 +87,15 @@ main {
     width: 75%
 }
 
+#index_picture {
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+}
+#Infotext {
+margin: 5px 0;
+}
+
 /*Footer*/
 footer {
     background-color: #cccccc;
