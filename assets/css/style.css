@@ -88,15 +88,36 @@ main {
     width: 75%
 }
 
-#index_picture {
-    width: 100%;
-    border-radius: 5px;
-    display: flex;
-}
-#Infotext {
-margin: 5px 0;
+#links {
+    column-count: 2;
 }
 
+#paw_straight {
+    background: url("../images/Paw line straight.webp") no-repeat center center/cover;
+    width: 100px;
+    height: 300px;
+    margin-left: 40%;
+    display: flex;
+  
+}
+
+#dogs {
+    background: url("../images/dog link.webp") no-repeat left center/cover;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 10%
+   
+}
+#cats {
+    background: url("../images/cats link.webp") no-repeat right center/cover;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 30%;
+    margin-bottom: 10px;
+
+}
 /*Footer*/
 footer {
     background-color: #cccccc;
