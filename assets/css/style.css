@@ -20,7 +20,7 @@ header {
     justify-content: space-between;
     align-items: baseline;
     box-shadow: 0 2px 2px 0 #030303;
-    z-index: 99%;
+    z-index: 100%;
 }
 
 header a {
@@ -70,7 +70,7 @@ nav {
 main {
     flex: 1 0 auto;
     margin-top: 40px;
-    background-color: rgb(247, 221, 165);
+    background-color: rgba(247, 221, 165, 0.8);
 }
 
 #hero_image{
@@ -104,21 +104,29 @@ main {
 
 #dogs {
     background: url("../images/dog link.webp") no-repeat left center/cover;
-    width: 100px;
-    height: 100px;
+    min-width: 100px;
+    min-height: 100px;
     border-radius: 10px;
-    margin-left: 10%
-   
+    margin-left: 10%;
+    margin-bottom: 10px;
 }
+
 #cats {
     background: url("../images/cats link.webp") no-repeat right center/cover;
-    width: 100px;
-    height: 100px;
+    min-width: 100px;
+    min-height: 100px;
     border-radius: 10px;
-    margin-left: 30%;
+    margin-left: 35%;
     margin-bottom: 10px;
-
 }
+
+
+/*Dogs*/
+
+#Australian_shepherd {
+    background: url("../images/Australian Shepherd.webp") no-repeat center center/cover;
+}
+
 /*Footer*/
 footer {
     background-color: #cccccc;
