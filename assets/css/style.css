@@ -44,6 +44,7 @@ h1 {
     list-style: none;
     letter-spacing: 2px;
     background-color: #cccccc;
+    width: 40%;
 }
 #menu li {
     margin-bottom: 0.5em;
@@ -138,10 +139,22 @@ main {
 
 /*Dogs*/
 
-#Australian_shepherd {
-    background: url("../images/Australian Shepherd.webp") no-repeat center center/cover;
-    position:flex;
+
+.container_dogs {
+border: 3px solid #000000;
+padding: 20px 40px 40px;
+margin-top: 5px;
 }
+
+.Picture_dogs{
+    width: 100%;
+    display: block
+}
+
+.text_dogs{
+    text-align: center;
+}
+
 
 /*Footer*/
 footer {
