@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+
 * {
     padding: 0;
     margin: 0;
@@ -20,7 +21,8 @@ header {
     justify-content: space-between;
     align-items: baseline;
     box-shadow: 0 2px 2px 0 #030303;
-    z-index: 100%;
+    z-index: 1;
+    
 }
 
 header a {
@@ -41,12 +43,17 @@ h1 {
     font-family: 'Rubik', sans-serif;
     list-style: none;
     letter-spacing: 2px;
+    background-color: #cccccc;
+}
+#menu li {
+    margin-bottom: 0.5em;
 }
 
+
 nav {
-    position:absolute;
+    position: absolute;
     width: 100%;
-    left: 0;
+    left: 0%;
     padding: 0 1rem;
     display: none;
     top: 100%;
@@ -61,6 +68,7 @@ nav {
 }
 #dropdown {
     display: flex;
+    
 }
 
 .active {
@@ -83,10 +91,17 @@ main {
 #hero_text {
     font-family: 'Rubik', sans-serif;
     text-align: center;
-    padding-top: 15%;
+    padding-top: 25%;
     background-color: rgba(247, 221, 165, 0.5);
     min-height: 250px;
     width: 75%
+}
+#Text_Home {
+    text-align: center;
+    font-size: large;
+    margin: 5px 10px 0 10px;
+    border: solid;
+    border-color: #030303;
 }
 
 #links {
@@ -125,6 +140,7 @@ main {
 
 #Australian_shepherd {
     background: url("../images/Australian Shepherd.webp") no-repeat center center/cover;
+    position:flex;
 }
 
 /*Footer*/
