@@ -155,6 +155,25 @@ margin-top: 5px;
     text-align: center;
 }
 
+/*Cats*/
+
+.container_cats {
+    border: 3px solid #000000;
+    padding: 20px 40px 40px;
+    margin-top: 5px;
+}
+
+.Picture_cats {
+    width: 100%;
+    display: block
+}
+
+.text_cats {
+    text-align: center;
+}
+
+/*Gallery*/
+
 
 /*Footer*/
 footer {
