@@ -91,9 +91,8 @@ main {
 #hero_text {
     font-family: 'Rubik', sans-serif;
     text-align: center;
-    padding-top: 25%;
     background-color: rgba(247, 221, 165, 0.5);
-    min-height: 250px;
+    background-size: 250px;
     width: 75%
 }
 #Text_Home {
@@ -124,7 +123,8 @@ main {
     min-height: 100px;
     border-radius: 10px;
     margin-bottom: 10px;
-    display: flex;
+    position: relative;
+    max-width: 100%;
 }
 
 #cats {
@@ -133,7 +133,8 @@ main {
     min-height: 100px;
     border-radius: 10px;
     margin-bottom: 10px;
-    display: flex;
+    position: relative;
+    max-width: 100%;
 }
 
 
@@ -238,7 +239,7 @@ list-style-type: none;
 }
 
 #social-networks i {
-padding: 0 ;
+padding: 0;
 color: #181818;
 }
 
@@ -258,7 +259,7 @@ color: #181818;
     }
     
     nav{
-        display:block;
+        display: block;
         position: relative;
         width: fit-content;
     }
@@ -269,6 +270,14 @@ color: #181818;
 
     .navbar-label{
         display:none;
+    }
+
+    #cats {
+        min-height: 300px;
+    }
+
+    #dogs {
+         min-height: 300px;
     }
 
     #pictures {
@@ -286,5 +295,15 @@ color: #181818;
 
     #pictures {
         column-count: 4;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    #cats{
+        min-height: 500px;
+    }
+
+    #dogs{
+        min-height:500px;
     }
 }
