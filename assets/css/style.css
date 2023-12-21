@@ -67,9 +67,9 @@ nav {
 #navbar:checked~nav {
     display: block;
 }
+
 #dropdown {
-    display: flex;
-    
+    display: flex; 
 }
 
 .active {
@@ -113,7 +113,7 @@ main {
     background: url("../images/Paw line straight.webp") no-repeat center center/cover;
     width: 100px;
     height: 300px;
-    margin-left: 40%;
+    margin-left: 40vw;
     display: flex;
   
 }
@@ -123,8 +123,8 @@ main {
     min-width: 100px;
     min-height: 100px;
     border-radius: 10px;
-    margin-left: 10%;
     margin-bottom: 10px;
+    display: flex;
 }
 
 #cats {
@@ -132,8 +132,8 @@ main {
     min-width: 100px;
     min-height: 100px;
     border-radius: 10px;
-    margin-left: 35%;
     margin-bottom: 10px;
+    display: flex;
 }
 
 
@@ -283,6 +283,7 @@ color: #181818;
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
+
     #pictures {
         column-count: 4;
     }
