@@ -179,10 +179,12 @@ margin: 5px 0;
 #pictures img {
     width: 100%;
     line-height: 1em;
+    
 }
 
 #pictures {
     line-height: 0;
+    column-count: 1;
 }
 
 /*Survey*/
@@ -240,6 +242,14 @@ padding: 0 ;
 color: #181818;
 }
 
+
+@media screen and (min-width: 576px) {
+    #pictures {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
+
 /*Tablet*/
 @media screen and (min-width:768px) {
 
@@ -261,10 +271,19 @@ color: #181818;
         display:none;
     }
 
+    #pictures {
+        column-count: 3;
+    }
+
 }
+
+
 /*Desktop*/
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
+    }
+    #pictures {
+        column-count: 4;
     }
 }
