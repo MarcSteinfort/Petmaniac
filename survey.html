@@ -32,9 +32,10 @@
         </ul>
     </nav>
     </header>
-    <main>
+    <main id="main_survey">
         <section id="survey">
-            <form id="survey-form" method="POST" action="https://formdump.codeinstitute.net">
+            <form id="survey_form" method="POST" action="https://formdump.codeinstitute.net">
+                <div id="text_fields">
                 <h2>Choose your favorite!</h2>
                 <label for="first_name">First Name</label>
                 <input type="text" name="first_name" id="first_name" class="text-input" required>
@@ -44,8 +45,9 @@
                     <br>
                 <label for="email_address">Email Address</label>
                 <input type="email" name="email_address" id="email_address" class="text-input" required>
+                </div>
                     <br>
-                <div class="radio-buttons">
+                <div class="radio_buttons">
                     <h3 id="survey_dogs">Dogs:</h3>
                 <div>
                     <label for="australian">Australian Shepherd</label>
@@ -89,7 +91,7 @@
                     <input type="radio" name="running_preference" id="ragdoll" value="ragdoll" required>
                 </div>
                 </div>
-                <button type="submit" class="join-button">Choose!</button>
+                <button type="submit" class="join_button">Choose!</button>
             </form>
         </section>
     </main>

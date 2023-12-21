@@ -79,7 +79,6 @@ nav {
 main {
     flex: 1 0 auto;
     margin-top: 40px;
-    background-color: rgba(247, 221, 165, 0.8);
 }
 
 #hero_image{
@@ -98,6 +97,7 @@ main {
     width: 75%
 }
 #Text_Home {
+    background-color: #cccccc;
     text-align: center;
     font-size: large;
     margin: 5px 10px 0 10px;
@@ -139,11 +139,11 @@ main {
 
 /*Dogs*/
 
-
 .container_dogs {
+background-color: #cccccc;
 border: 3px solid #000000;
 padding: 20px 40px 40px;
-margin-top: 5px;
+margin: 5px 0;
 }
 
 .Picture_dogs{
@@ -157,10 +157,12 @@ margin-top: 5px;
 
 /*Cats*/
 
+
 .container_cats {
+    background-color: #cccccc;
     border: 3px solid #000000;
     padding: 20px 40px 40px;
-    margin-top: 5px;
+    margin: 5px 0;
 }
 
 .Picture_cats {
@@ -184,8 +186,30 @@ margin-top: 5px;
 }
 
 /*Survey*/
+#main_survey {
+background: url("../images/Rename.webp") no-repeat center center/cover;
 
+}
 
+#survey {
+text-align: center;
+}
+
+#text_fields {
+margin-top: 10px;
+border: 3px solid #000000;
+padding: 0 5px 5px 5px;
+}
+
+.radio_buttons {
+
+border: 3px solid #000000;
+padding: 0 5px 5px 5px;
+}
+
+.join_button {
+margin-top: 15px;
+}
 
 /*Footer*/
 footer {
