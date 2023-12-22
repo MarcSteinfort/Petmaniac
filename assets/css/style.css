@@ -143,6 +143,7 @@ main {
 .container_dogs {
 background-color: #cccccc;
 border: 3px solid #000000;
+border-radius: 5px;
 padding: 20px 40px 40px;
 margin: 5px 0;
 }
@@ -162,13 +163,14 @@ margin: 5px 0;
 .container_cats {
     background-color: #cccccc;
     border: 3px solid #000000;
+    border-radius: 5px;
     padding: 20px 40px 40px;
     margin: 5px 0;
 }
 
 .Picture_cats {
     width: 100%;
-    display: block
+    display: block;
 }
 
 .text_cats {
@@ -180,38 +182,36 @@ margin: 5px 0;
 #pictures img {
     width: 100%;
     line-height: 1em;
+    border-radius: 5px;
     
 }
 
 #pictures {
-    line-height: 0;
     column-count: 1;
 }
 
 /*Survey*/
 #main_survey {
-background: url("../images/Rename.webp") no-repeat center center/cover;
-
+    background: url("../images/Rename.webp") no-repeat center center/cover;
 }
 
 #survey {
-text-align: center;
+    text-align: center;
 }
 
 #text_fields {
-margin-top: 10px;
-border: 3px solid #000000;
-padding: 0 5px 5px 5px;
+    margin-top: 10px;
+    border: 3px solid #000000;
+    padding: 0 5px 5px 5px;
 }
 
 .radio_buttons {
-
-border: 3px solid #000000;
-padding: 0 5px 5px 5px;
+    border: 3px solid #000000;
+    padding: 0 5px 5px 5px;
 }
 
 .join_button {
-margin-top: 15px;
+    margin-top: 15px;
 }
 
 /*Footer*/
@@ -220,22 +220,22 @@ footer {
     width: 100%;
     justify-content: space-between;
     align-items: baseline;
-    box-shadow:  2px 0 0 2px  #030303;
+    box-shadow:  2px 0 0 2px  #000000;
 }
 
 footer>h3 {
     font-family: 'Rubik', sans-serif;
     text-align: center;
     letter-spacing: 2px;
-    color: #181818;
+    color: #000000
 }
 
 #social-networks {
-text-align: center;
-padding: 20px 0;
-display: flex;
-justify-content: space-evenly;
-list-style-type: none;
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
 
 #social-networks i {
@@ -296,6 +296,29 @@ color: #181818;
     #pictures {
         column-count: 4;
     }
+
+    .container_cats {
+        display: grid;
+        align-items: center;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 5px;
+    }
+
+    .Picture_cats {
+        max-width: 800px;
+    }
+
+    .container_dogs {
+        display: grid;
+        align-items: center;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 5px;
+    }
+        
+    .Picture_dogs {
+        max-width: 800px;
+    }
+
 }
 
 @media screen and (min-width: 1440px) {
