@@ -13,7 +13,6 @@ You will learn about the specifics, the traits and things you need to look out f
 <li>Gallery page, which contains various images of the different breeds. This page is fully responsive and reacts different on various devices.</li>
 <li>Dog and Cats pages, which contain all relevant information about the different breeds. These pages are fully responsive aswell.</li>
 <li>Imaginary survey for the users where they can choose the cat- and dogbreeds they got or want to get in future.</li>
-<li>404 Page for broken links</li>
 </ol>
 
 ## Wireframes
@@ -41,7 +40,13 @@ Gallerypage
 <ul>
 <li> Information about various Catbreeds <a href="https://www.zooroyal.de/magazin/katzen/die-50-beliebtesten-katzenrassen/" target="_blank" rel="noopener"> Click here</a> </li>
 <li>All pictures are owned by myself Marc Steinfort or are creative commons licenses and free to use. </li>
-<li><a href="https://www.freepik.com/icon/animal-shelter_3769065" target="_blank" rel="noopener">Favicon by Freepik</a></li>
+<li><a href="http://tinyurl.com/3jryf9kt" target="_blank" rel="noopener">Hero Image</a></li>
+<li><a href="https://www.flickr.com/photos/dugspr/5642933696" target="_blank" rel="noopener">Gallery Picture</a></li>
+<li><a href="https://www.flickr.com/photos/dugspr/6810252887" target="_blank" rel="noopener">Surveyimage</a></li>
+  </ul>
+<li><a href="https://wwww.freepik.com/icon/animal-shelter_3769065" target="_blank" rel="noopener">Favicon by Freepik</a></li>
+<li><a href="https://validator.w3.org/" target="_blank" rel="noopener">Validator for my HTML5 code</a></li>
+<li><a href="https://jigsaw.w3.org/css-validator/" target="_blank" rel="noopener">Validator for my css code</a></li>
 </ul>
 
 ## Technologies used
@@ -51,4 +56,6 @@ Gallerypage
 <li>Tinypng to compress my Webp images: <a href="https://tinypng.com" target="_blank" rel="noopener"> Tinypng </a> </li>
 <li>Cloudconvert to convert my .png and .jpeg files: <a href="https://cloudconvert.com/jpeg-to-webp" target="_blank" rel="noopener"> Cloudconvert </a> </li>
 <li>Favicon converter for the Favicon Icon: <a href="https://favicon.io/favicon-converter/" target="_blank" rel="noopener"> Favicon converter </a> </li>
+<li>Website for the Mockup Image: <a href="https://techsini.com/multi-mockup/" target="_blank" rel="noopener">Techsini</a></li>
+<li>Tinyurl to shorten long Urls: <a href="https://tinyurl.com/app" target="_blank" rel="noopener">TinyUrl</a></li>
 </ul>
