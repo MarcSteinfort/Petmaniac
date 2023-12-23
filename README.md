@@ -15,7 +15,6 @@ You will learn about the specifics, the traits and things you need to look out f
 <li>Site wide Favicon</li>
 <img src="assets/images/Favicons.webp" alt="Favicon Icon"/>
 <li>Gallery page, which contains various images of the different breeds. This page is fully responsive and reacts different on various devices.</li>
-<img src="assets/images/Galery.webp" alt="Gallery Screenshot"/>
 <li>Dog and Cats pages, which contain all relevant information about the different breeds. These pages are fully responsive aswell.</li>
 <li>Imaginary survey for the users where they can choose the cat- and dogbreeds they got or want to get in future.</li>
 </ol>
@@ -49,17 +48,24 @@ The Homepage will be a quick overlook for the User to see which type of pet will
 ## Cats and Dogspage
 
 This page covers various breeds of cats and dogs and a quick Information about them.
-<img src="Placeholder Dogs" alt="Screenshot of the dogpage" height="35%" width="35%"> <img src="Placeholder Cats" alt="Screenshot of the catpage" height="35%" width="35%">
+<img src="assets/images/Dogs tab.webp" alt="Screenshot of the dogpage" height="35%" width="35%"> <img src="assets/images/Cats tab.webp" alt="Screenshot of the catpage" height="35%" width="35%">
 
 
 ## Gallery
 
 Here you can see various pictures of dogs with her families.
+<img src="assets/images/Galery.webp" alt="Gallery Screenshot" width="35%" height="35%">
+
 
 ## Survey
 
 The Survey allows the user to choose their favourite breed.
+<img src="assets/images/Survvey.webp" alt="Screenshot of the Survey Page" height="35%" width="35%">
 
+
+## Testing
+
+Testing was performed
 ## Sources
 
 <ul>
@@ -73,6 +79,7 @@ The Survey allows the user to choose their favourite breed.
 <li><a href="https://validator.w3.org/" target="_blank" rel="noopener">Validator for my HTML5 code</a></li>
 <li><a href="https://jigsaw.w3.org/css-validator/" target="_blank" rel="noopener">Validator for my css code</a></li>
 </ul>
+
 
 ## Technologies used
 
