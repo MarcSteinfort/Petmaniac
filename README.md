@@ -90,6 +90,7 @@ First Name (required, type=text)
 Last Name (required, type=text)
 Email (required, type=email)
 
+The Project is deployed with Github pages.
 ## Sources
 
 <ul>
