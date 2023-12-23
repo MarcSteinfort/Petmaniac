@@ -15,8 +15,8 @@ You will learn about the specifics, the traits and things you need to look out f
 <li>Site wide Favicon</li>
 <img src="assets/images/Favicons.webp" alt="Favicon Icon"/>
 <li>Gallery page, which contains various images of the different breeds. This page is fully responsive and reacts different on various devices.</li>
-<li>Dog and Cats pages, which contain all relevant information about the different breeds. These pages are fully responsive aswell.</li>
-<li>Imaginary survey for the users where they can choose the cat- and dogbreeds they got or want to get in future.</li>
+<li>Dog and Cats pages, which contain information about different breeds. These pages are fully responsive aswell.</li>
+<li>A survey for the users where they can choose their favourite cat- or dogbreed, which they got or want to get in the future.</li>
 </ol>
 
 ## Wireframes
@@ -53,19 +53,21 @@ This page covers various breeds of cats and dogs and a quick Information about t
 
 ## Gallery
 
-Here you can see various pictures of dogs with her families.
+Here you can see various pictures of dogs with her families. <br>
 <img src="assets/images/Galery.webp" alt="Gallery Screenshot" width="35%" height="35%">
 
 
 ## Survey
 
-The Survey allows the user to choose their favourite breed.
+The Survey allows the user to choose their favourite breed. <br>
 <img src="assets/images/Survvey.webp" alt="Screenshot of the Survey Page" height="35%" width="35%">
 
 
 ## Testing
 
-Testing was performed
+The css Code was tested via jigsaw w3c there were no errors found for the code: <br>
+<img src="assets/images/jigsaw.webp" alt="Jigsaw Validation">
+
 ## Sources
 
 <ul>
