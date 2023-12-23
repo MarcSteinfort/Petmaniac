@@ -5,12 +5,16 @@ You will learn about the specifics, the traits and things you need to look out f
 <img src="assets/images/Hero_Image.webp" alt="The Hero image of the page"/>
 
 ## List of Features
-
+<img src="assets/images/Mockup picture.webp" alt="Mockup of the Website"/>
 <ol>
 <li>Permanent navigation menu in header. For Smartphones a dropdown menu</li>
+<img src="assets/images/Header.webp" alt="Header screenshot"/>
 <li>Footer with all relevant social media platforms with there distinctive Icon as _blank link.  </li>
+<img src="assets/images/Footer.webp" alt="Footer Screenshot"/>
 <li>Site wide Favicon</li>
+<img src="assets/images/Favicons.webp" alt="Favicon Icon"/>
 <li>Gallery page, which contains various images of the different breeds. This page is fully responsive and reacts different on various devices.</li>
+<img src="assets/images/Gallery.webp" alt="Gallery Screenshot"/>
 <li>Dog and Cats pages, which contain all relevant information about the different breeds. These pages are fully responsive aswell.</li>
 <li>Imaginary survey for the users where they can choose the cat- and dogbreeds they got or want to get in future.</li>
 </ol>
