@@ -6,6 +6,7 @@ You will learn about the specifics, the traits and things you need to look out f
 
 ## List of Features
 <img src="assets/images/Mockup picture.webp" alt="Mockup of the Website"/>
+<br>
 <ol>
 <li>Permanent navigation menu in header. For Smartphones a dropdown menu</li>
 <img src="assets/images/Header.webp" alt="Header screenshot"/>
@@ -14,7 +15,7 @@ You will learn about the specifics, the traits and things you need to look out f
 <li>Site wide Favicon</li>
 <img src="assets/images/Favicons.webp" alt="Favicon Icon"/>
 <li>Gallery page, which contains various images of the different breeds. This page is fully responsive and reacts different on various devices.</li>
-<img src="assets/images/Gallery.webp" alt="Gallery Screenshot"/>
+<img src="assets/images/Galery.webp" alt="Gallery Screenshot"/>
 <li>Dog and Cats pages, which contain all relevant information about the different breeds. These pages are fully responsive aswell.</li>
 <li>Imaginary survey for the users where they can choose the cat- and dogbreeds they got or want to get in future.</li>
 </ol>
@@ -38,6 +39,26 @@ Gallerypage
 
 <img src="assets/images/Survey Smartphone.webp" alt="Wireframe for surveypage Smartphone" height="35%" width="35%"/>
 <img src="assets/images/Survey.webp" alt="Wireframe for surveypage" height="50%" width="50%"/>
+
+
+## Homepage
+
+The Homepage will be a quick overlook for the User to see which type of pet will be covered on this page and two links to the "Cats" and "Dogs" page.
+
+
+## Cats and Dogspage
+
+This page covers various breeds of cats and dogs and a quick Information about them.
+<img src="Placeholder Dogs" alt="Screenshot of the dogpage" height="35%" width="35%"> <img src="Placeholder Cats" alt="Screenshot of the catpage" height="35%" width="35%">
+
+
+## Gallery
+
+Here you can see various pictures of dogs with her families.
+
+## Survey
+
+The Survey allows the user to choose their favourite breed.
 
 ## Sources
 

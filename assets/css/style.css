@@ -37,7 +37,7 @@ h1 {
     letter-spacing: 2px;
 }
 
-
+/* The Code for the Dropdown menu is highly inspired by the "Love Running project"*/
 #menu {
     text-align: right;
     font-family: 'Rubik', sans-serif;
@@ -191,6 +191,7 @@ margin: 5px 0;
 }
 
 /*Survey*/
+/*The Code for the Survey is inspired by the "Love Running project*/
 #main_survey {
     background: url("../images/Rename.webp") no-repeat center center/cover;
 }
