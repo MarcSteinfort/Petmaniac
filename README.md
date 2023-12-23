@@ -68,6 +68,28 @@ The Survey allows the user to choose their favourite breed. <br>
 The css Code was tested via jigsaw w3c there were no errors found for the code: <br>
 <img src="assets/images/jigsaw.webp" alt="Jigsaw Validation">
 
+The html code was tested for validation via. w3c validator and no errors were found except for some typo mistakes like a space to much or stray tags. I corrected these and in the end there were no mistakes found.<br>
+<img src="assets/images/W3org.webp" alt="Index.html Validation">
+
+<img src="assets/images/dog_html_w3c.webp" alt="Dogs.html Validation">
+
+<img src="assets/images/cats_html_w3c.webp" alt="Cats.html Validation">
+
+<img src="assets/images/gallery_html_w3c.webp" alt="Gallery.html Validation">
+
+<img src="assets/images/survey_html_w3c.webp" alt="Survey.html Validation">
+
+
+All links were tested for functionality and worked as planned.
+<br>
+The Survey was tested for functionality and worked as planned.<br>
+The Survey form was implemented and contains the following attributes to ensure it is working correctly
+<br>
+method="POST"
+First Name (required, type=text)
+Last Name (required, type=text)
+Email (required, type=email)
+
 ## Sources
 
 <ul>
